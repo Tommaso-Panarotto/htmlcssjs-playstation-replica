@@ -23,3 +23,14 @@ background-color: #363636;
     color: var(--bs-nav-link-color);
 }
 
+/*Main*/
+
+/*Jumbotron*/
+.jumbotron{
+    background-image: url(../img/jumbo-bg.png);
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
